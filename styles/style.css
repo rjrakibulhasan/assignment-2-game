@@ -1,0 +1,80 @@
+.body{
+        font-family: 'Montserrat', sans-serif;
+        font-family: 'Open Sans', sans-serif;
+        font-family: 'Poppins', sans-serif;
+}
+
+/* nav style */
+.nav-cls{
+    width: 1500px;
+}
+.menu-containar {
+    background-color: rgb(35, 34, 34);
+    padding: 20px;
+    color: white;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.logo {
+    margin: 0px;
+    padding: 0px;
+}
+
+.home {
+    display: flex;
+    justify-content: space-between;
+
+}
+.items {
+    margin-right: 10px;
+    padding: 7px;
+
+}
+/* nav style */
+
+/* bannar-section */
+.main-section{
+    display: flex;
+    width: 1300px;
+    height: 600px;
+    padding: 50px;
+    background-color:  linear-gradient 90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03);
+}
+.play-tittle{
+    color: #0B0223;
+        text-align: center;
+        font-family: Work Sans;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 600;
+       ;
+       
+}
+.goat-title{
+    text-align: center;
+        font-family: Work Sans;
+        font-size: 95px;
+        font-style: normal;
+        font-weight: 800;
+       
+}
+.pg-title{
+    color: #534C64;
+        font-family: Work Sans;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+      
+}
+.banner-one{
+    justify-content: center;
+    text-align: center;
+   
+}
+
+.images-png{
+    width: 500px;
+}
+/* bannar-section */
