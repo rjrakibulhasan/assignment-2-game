@@ -197,3 +197,14 @@ gap: 10px;
     background-image: url(../images/rounded-play-button_318-9366.avif);
    ;
 }
+@media screen and (max-width: 576px) {
+    .nav-section{
+    display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .another-section{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    
+}
