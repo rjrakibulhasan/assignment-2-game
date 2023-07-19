@@ -108,7 +108,16 @@ gap: 10px;
         font-family: Work Sans;
         font-size: 48px;
         font-style: normal;
-        font-weight: 700;
+       
+        font-weight: 800;
+            color: violet;
+}
+.online{
+    margin-top: 150px;
+    font-size: 40px;
+}
+.funny{
+    color: violet;
 }
 .gemer-content-tow{
     color: #534C64;
@@ -183,4 +192,8 @@ gap: 10px;
 .copy-right{
     text-align: center;
     justify-content: center;
+}
+.bonous-work{
+    background-image: url(../images/rounded-play-button_318-9366.avif);
+   ;
 }
